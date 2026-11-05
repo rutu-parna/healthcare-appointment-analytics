@@ -231,3 +231,12 @@ python scripts/verify_database.py
 jupyter notebook notebooks/healthcare_eda.ipynb
 ```
 Select the `.venv` Python kernel in your notebook environment to execute all cells.
+
+---
+
+## Documentation
+
+| Document | Description |
+| :--- | :--- |
+| [SQL Analysis Documentation](docs/SQL_ANALYSIS.md) | Detailed walkthrough of all SQL queries, verified findings, and business interpretations across all five SQL scripts. |
+| [Business Insights Report](reports/business_insights.md) | Executive business analysis report with key findings, operational patterns, and strategic recommendations. |
